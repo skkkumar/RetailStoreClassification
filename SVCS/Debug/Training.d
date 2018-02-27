@@ -1,0 +1,1 @@
+Training.d: ../Training.cpp
